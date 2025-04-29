@@ -16,3 +16,5 @@ Depends:
 Imports: 
     methods, MCMCpack, cmdstanr, dplyr, ggplot2, magrittr, mvtnorm,nlrx, purrr ,stringr, tibble, tidybayes, tidyr
 License: MIT + file LICENSE
+URL: https://github.com/spholmes/generative
+BugReports: https://github.com/spholmes/generative/issues
